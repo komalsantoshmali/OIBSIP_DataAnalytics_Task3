@@ -50,7 +50,7 @@ The following data cleaning operations were performed:
 
 ## Project Files
 
-* `Data_Cleaning.ipynb.ipynb` — Jupyter Notebook containing the data cleaning process.
+* `Data_Cleaning.ipynb` — Jupyter Notebook containing the data cleaning process.
 * `retail_sales_dataset.csv` — Original dataset.
 * `cleaned_retail_sales_dataset.csv` — Cleaned dataset.
 
